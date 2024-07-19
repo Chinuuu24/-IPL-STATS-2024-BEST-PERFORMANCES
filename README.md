@@ -2,9 +2,9 @@
 
 # Project Overview
 
-In this project, I have shown the best performances of IPL 2024 which includes both bowling and batting performances by using Power BI.
+Designed a dashboard based on the players performances in the IPL 2024 by preparing, transforming and then modelling the complete referred data. I have also created my own problem statements to use in the analysis.
 
-# Skills
+# Applied Skills
 
 Data Preparation, Data Visualization
 
